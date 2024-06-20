@@ -1,10 +1,15 @@
+
+INSTAL K^
+
+```brew install k6```
+
 RUN TEST
 
-`source .env && k6 run tests/api/script.js`
+```source .env && k6 run tests/api/script.js```
 
 RUN ALL API TESTS
 
-`chmod +x ./run-api-test.sh && ./run-api-test.sh`
+```chmod +x ./run-api-test.sh && ./run-api-test.sh```
 
 APP LOCAL
 
